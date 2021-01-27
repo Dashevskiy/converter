@@ -1,0 +1,10 @@
+ul {
+    display: flex;
+    align-items: flex-end;
+    list-style: none;
+}
+
+.icon-exchange i {
+    padding: 32px 10px 0 10px;
+    cursor: pointer;
+}
